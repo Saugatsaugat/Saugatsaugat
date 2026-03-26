@@ -1,12 +1,35 @@
-Hello, World! 🌟
+### 🚀 Hi, I'm Saugat Thapa Chhetri
 
-I'm a passionate software developer and AI enthusiast with a knack for crafting innovative solutions.
+**Java Backend Developer | AI & ML Enthusiast**
 
-🚀 What I Do:
+I build **scalable backend systems** and **AI-powered applications** using Java, Spring Boot, and cloud technologies.
 
-Programming: Proficient in various programming languages and adept at data structures and algorithms.
+---
 
-Learning Journey: Currently diving into full-stack development and exploring the intricacies of machine learning algorithms.
+### 💡 What I Do
+- ⚙️ Develop **microservices & REST APIs** (Spring Boot, Quarkus)
+- 🤖 Build **AI systems (RAG, LLM integration, HMM)**
+- ☁️ Deploy **cloud-native apps** using AWS & Docker
+- 📊 Work on **cybersecurity + data pipelines**
 
-Portfolio: https://www.saugatthapachhetri.com.np
+---
 
+### 🛠 Tech Stack
+**Java | Spring Boot | Quarkus | Python | AWS | Docker | Kafka | PostgreSQL**
+
+---
+
+### 📌 Featured Work
+- 🧠 AI Chatbot (RAG + LLMs)
+- 🏗 Production-grade Microservices Platform
+- 🔐 Cybersecurity Research (HMM-based anomaly detection)
+
+---
+
+### 🎓 Currently
+M.S. in Computer Science @ Texas Southern University
+
+---
+
+### 🌐 Portfolio
+👉 https://www.saugatthapachhetri.com.np
